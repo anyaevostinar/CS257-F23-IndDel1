@@ -44,6 +44,7 @@ def main():
     '''Arguments: None
 Return value: None
 Purpose: Maintains command line interface, loads data. Usage statement: "Usage: python3 basic_cl.py row column". Prints cell value specified.
+If invalid indices are given as command-line arguments, prints the usage statement above.
 '''
     pass
 
